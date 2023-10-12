@@ -1,4 +1,4 @@
-# Miniman PHP with PHP-FPM and nginx docker containers
+# Miniman PHP with PHP-FPM and nginx container setup
 
 ## Prerequisites
 - [Docker](https://docs.docker.com/get-docker/)
