@@ -7,16 +7,26 @@
 ## How to use
 
 - Clone this repository
+
+  ```sh
+  git clone https://github.com/DragonsLacky/php-nginx-minimal-setup.git PROJECT_NAME
+  ```
+
 - Go to the container directory
+
   ```
     cd container
   ```
 - Start the containers using docker compose
+
   > Docker compose plugin
+
   ```sh
     docker compose up 
   ```
+
   > Docker compose standalone
+
   ```sh
     docker-compose up 
   ```
